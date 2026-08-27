@@ -44,7 +44,7 @@ uv pip install -r requirements.txt
 
 ### Run the Program
 ```bash
-python main.py
+python ./src/main_zh.py
 ```
 
 ### Packaging Process

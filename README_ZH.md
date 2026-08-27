@@ -43,7 +43,7 @@ uv pip install -r requirements.txt
 ```
 ### 运行程序
 ```bash
-python main_zh.py
+python ./src/main_zh.py
 ```
 ### 打包流程
 
